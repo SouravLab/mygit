@@ -7,4 +7,11 @@ public class Customer {
 	System.out.println("this is customer class2");
 	}
 
+	
+	public void logout(){
+		if (10>0) {
+		System.out.println("this is cust --logout");
+		}
+	}
+	
 }
