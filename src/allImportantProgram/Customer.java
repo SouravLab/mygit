@@ -13,4 +13,9 @@ public class Customer {
 		}
 	}
 
+	public void Cal() {
+		if (10 > 0) {
+			System.out.println("this is cust --cal");
+		}
+	}
 }
