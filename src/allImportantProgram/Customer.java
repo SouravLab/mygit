@@ -18,4 +18,11 @@ public class Customer {
 			System.out.println("this is cust --cal");
 		}
 	}
+	
+	public void Total() {
+		if (10 > 0) {
+			System.out.println("this is cust --total");
+		}
+	}
+	
 }
