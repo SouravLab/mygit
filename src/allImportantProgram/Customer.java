@@ -11,7 +11,7 @@ public class Customer {
 	}
 
 	public void logout() {
-		if (10 > 0) {
+		if (10 > 0 && 10>5) {
 			System.out.println("this is cust --logout");
 		}
 	}
@@ -21,6 +21,9 @@ public class Customer {
 			System.out.println("this is cust --cal");
 		}
 	}
-	
+	public void SintificCal() {
+		if (10 > 0) {
+			System.out.println("SintificCal is cust --cal");
+		}
 	
 }
