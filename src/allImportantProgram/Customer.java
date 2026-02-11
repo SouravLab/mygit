@@ -3,8 +3,11 @@ package allImportantProgram;
 public class Customer {
 
 	public static void main(String[] args) {
-		System.out.println("this is customer class");
-
+		System.out.println("this is customer class method");
+	}
+	
+	public void m5() {
+		System.out.println("this is m5 method");
 	}
 
 	public void logout() {
@@ -18,4 +21,6 @@ public class Customer {
 			System.out.println("this is cust --cal");
 		}
 	}
+	
+	
 }
