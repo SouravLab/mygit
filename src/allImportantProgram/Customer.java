@@ -6,7 +6,7 @@ public class Customer {
 		System.out.println("this is customer class method");
 	}
 	
-	public void m5() {
+	public void method5() {
 		System.out.println("this is m5 method");
 	}
 
